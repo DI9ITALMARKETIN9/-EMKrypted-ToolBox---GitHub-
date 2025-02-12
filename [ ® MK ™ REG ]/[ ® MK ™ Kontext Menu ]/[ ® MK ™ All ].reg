@@ -4,9 +4,9 @@ Windows Registry Editor Version 5.00
 
 ** 5tarted on 01-27-2027
 
-:: [ ® MK ™ Kontext Menu ]
+:: [ Â® MK â„¢ Kontext Menu ]
 
-:: [ ® MK ™ Directory Menu * ]
+:: [ Â® MK â„¢ Directory Menu * ]
 
 [HKEY_CLASSES_ROOT\Directory]
 "AlwaysShowExt"=""
@@ -147,7 +147,7 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\Directory\ShellEx\PropertySheetHandlers\{ef43ecfe-2ab9-4632-bf21-58909dd177f0}]
 @=""
 
-:: [ ® MK ™ Kontext Menu * ]
+:: [ Â® MK â„¢ Kontext Menu * ]
 
 [HKEY_CLASSES_ROOT\*\shell]
 
@@ -214,7 +214,7 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\*\shell\*Hide File\command]
 @="cmd.exe /c attrib +h +s +r /s /d /l \"%1\""
 
-:: [ ® MK ™ Kontext Menu .Bat ]
+:: [ Â® MK â„¢ Kontext Menu .Bat ]
 
 [HKEY_CLASSES_ROOT\batfile]
 @="Windows Batch File"
@@ -296,7 +296,7 @@ Windows Registry Editor Version 5.00
 @="{1531d583-8375-4d3f-b5fb-d23bbd169f22}"
 
 
-:: [ ® MK ™ Kontext Menu .Cat ]
+:: [ Â® MK â„¢ Kontext Menu .Cat ]
 
 [HKEY_CLASSES_ROOT\CATFile]
 @="Security Catalog"
@@ -319,7 +319,7 @@ Windows Registry Editor Version 5.00
   72,00,79,00,70,00,74,00,45,00,78,00,74,00,4f,00,70,00,65,00,6e,00,43,00,41,\
   00,54,00,20,00,25,00,31,00,00,00
 
-:: [ ® MK ™ Kontext Menu .Cer ]
+:: [ Â® MK â„¢ Kontext Menu .Cer ]
 
 [HKEY_CLASSES_ROOT\CERFile]
 @="Security Certificate"
@@ -354,7 +354,7 @@ Windows Registry Editor Version 5.00
   72,00,79,00,70,00,74,00,45,00,78,00,74,00,4f,00,70,00,65,00,6e,00,43,00,45,\
   00,52,00,20,00,25,00,31,00,00,00
 
-:: [ ® MK ™ Kontext Menu .Chm ]
+:: [ Â® MK â„¢ Kontext Menu .Chm ]
 
 [HKEY_CLASSES_ROOT\chm.file]
 @="Compiled HTML Help file"
@@ -378,7 +378,7 @@ Windows Registry Editor Version 5.00
   00,25,00,5c,00,68,00,68,00,2e,00,65,00,78,00,65,00,22,00,20,00,25,00,31,00,\
   00,00
 
-:: [ ® MK ™ Kontext Menu .Cmd ]
+:: [ Â® MK â„¢ Kontext Menu .Cmd ]
 
 [HKEY_CLASSES_ROOT\cmdfile]
 @="Windows Command Script"
@@ -451,7 +451,7 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\cmdfile\ShellEx\{8895b1c6-b41f-4c1c-a562-0d564250836f}]
 @="{1531d583-8375-4d3f-b5fb-d23bbd169f22}"
 
-:: [ ® MK ™ Kontext Menu .Com ]
+:: [ Â® MK â„¢ Kontext Menu .Com ]
 
 [HKEY_CLASSES_ROOT\comfile]
 @="MS-DOS Application"
@@ -486,7 +486,7 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\comfile\shellex\PropertySheetHandlers\PifProps]
 @="{86F19A00-42A0-1069-A2E9-08002B30309D}"
 
-:: [ ® MK ™ Kontext Menu .Cpl ]
+:: [ Â® MK â„¢ Kontext Menu .Cpl ]
 
 [HKEY_CLASSES_ROOT\cplfile]
 @="Control Panel Item"
@@ -517,7 +517,7 @@ Windows Registry Editor Version 5.00
   00,73,00,55,00,73,00,65,00,72,00,20,00,22,00,25,00,31,00,22,00,2c,00,25,00,\
   2a,00,00,00
 
-:: [ ® MK ™ Kontext Menu .Crl ]
+:: [ Â® MK â„¢ Kontext Menu .Crl ]
 
 [HKEY_CLASSES_ROOT\CRLFile]
 @="Certificate Revocation List"
@@ -552,7 +552,7 @@ Windows Registry Editor Version 5.00
   72,00,79,00,70,00,74,00,45,00,78,00,74,00,4f,00,70,00,65,00,6e,00,43,00,52,\
   00,4c,00,20,00,25,00,31,00,00,00
 
-:: [ ® MK ™ Kontext Menu .Css ]
+:: [ Â® MK â„¢ Kontext Menu .Css ]
 
 [HKEY_CLASSES_ROOT\CSSfile]
 
@@ -565,7 +565,7 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\CSSfile\shell\*Copy Content\command]
 @="cmd /c clip < \"%1\""
 
-:: [ ® MK ™ Kontext Menu Direcktory ]
+:: [ Â® MK â„¢ Kontext Menu Direcktory ]
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory]
 "AlwaysShowExt"=""
@@ -692,7 +692,7 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\ShellEx\PropertySheetHandlers\{ef43ecfe-2ab9-4632-bf21-58909dd177f0}]
 @=""
 
-:: [ ® MK ™ Kontext Menu Folder ]
+:: [ Â® MK â„¢ Kontext Menu Folder ]
 
 [HKEY_CLASSES_ROOT\folder]
 @="Folder"
@@ -803,7 +803,7 @@ Windows Registry Editor Version 5.00
 "IsFolder"=""
 "NoExtension"=""
 
-:: [ ® MK ™ Kontext Menu .Html ]
+:: [ Â® MK â„¢ Kontext Menu .Html ]
 
 [HKEY_CLASSES_ROOT\htmlfile]
 
@@ -819,7 +819,7 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\htmlfile\shell\*Copy Content\command]
 @="cmd /c clip < \"%1\""
 
-:: [ ® MK ™ Kontext Menu .Inf ]
+:: [ Â® MK â„¢ Kontext Menu .Inf ]
 
 [HKEY_CLASSES_ROOT\inffile]
 @="Setup Information"
@@ -865,7 +865,7 @@ Windows Registry Editor Version 5.00
   54,00,45,00,50,00,41,00,44,00,2e,00,45,00,58,00,45,00,20,00,2f,00,70,00,20,\
   00,25,00,31,00,00,00
 
-:: [ ® MK ™ Kontext Menu .Ini ]
+:: [ Â® MK â„¢ Kontext Menu .Ini ]
 
 [HKEY_CLASSES_ROOT\inifile]
 @="Configuration Settings"
@@ -903,7 +903,7 @@ Windows Registry Editor Version 5.00
   54,00,45,00,50,00,41,00,44,00,2e,00,45,00,58,00,45,00,20,00,2f,00,70,00,20,\
   00,25,00,31,00,00,00
 
-:: [ ® MK ™ Kontext Menu .Js ]
+:: [ Â® MK â„¢ Kontext Menu .Js ]
 
 [HKEY_CLASSES_ROOT\JSFile]
 @="JScript Script File"
@@ -957,7 +957,7 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\JSFile\Shell\*Print File\Command]
 @="X:\\Windows\\System32\\Notepad.exe /p %1"
 
-:: [ ® MK ™ Kontext Menu .Jse ]
+:: [ Â® MK â„¢ Kontext Menu .Jse ]
 
 [HKEY_CLASSES_ROOT\JSEFile]
 @="JScript Encoded File"
@@ -1007,7 +1007,7 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\JSEFile\Shell\*Open In C$kript\Command]
 @="X:\\Windows\\System32\\CScript.exe \"%1\" %*"
 
-:: [ ® MK ™ Kontext Menu Notepad ]
+:: [ Â® MK â„¢ Kontext Menu Notepad ]
 
 [HKEY_CLASSES_ROOT\Applications\notepad.exe]
 
@@ -1031,7 +1031,7 @@ Windows Registry Editor Version 5.00
   54,00,45,00,50,00,41,00,44,00,2e,00,45,00,58,00,45,00,20,00,25,00,31,00,00,\
   00
 
-:: [ ® MK ™ Kontext Menu .P7r ]
+:: [ Â® MK â„¢ Kontext Menu .P7r ]
 
 [HKEY_CLASSES_ROOT\P7RFile]
 @="Certificate Request Response"
@@ -1066,7 +1066,7 @@ Windows Registry Editor Version 5.00
   72,00,79,00,70,00,74,00,45,00,78,00,74,00,4f,00,70,00,65,00,6e,00,50,00,37,\
   00,52,00,20,00,25,00,31,00,00,00
 
-:: [ ® MK ™ Kontext Menu .Pbk ]
+:: [ Â® MK â„¢ Kontext Menu .Pbk ]
 
 [HKEY_CLASSES_ROOT\pbkfile]
 @="Dial-Up Phonebook"
@@ -1093,7 +1093,7 @@ Windows Registry Editor Version 5.00
   73,00,70,00,68,00,6f,00,6e,00,65,00,2e,00,65,00,78,00,65,00,20,00,2d,00,66,\
   00,20,00,22,00,25,00,31,00,22,00,00,00
 
-:: [ ® MK ™ Kontext Menu .Pfx ]
+:: [ Â® MK â„¢ Kontext Menu .Pfx ]
 
 [HKEY_CLASSES_ROOT\PFXFile]
 @="Personal Information Exchange"
@@ -1116,7 +1116,7 @@ Windows Registry Editor Version 5.00
   72,00,79,00,70,00,74,00,45,00,78,00,74,00,41,00,64,00,64,00,50,00,46,00,58,\
   00,20,00,25,00,31,00,00,00
 
-:: [ ® MK ™ Kontext Menu .Pif ]
+:: [ Â® MK â„¢ Kontext Menu .Pif ]
 
 [HKEY_CLASSES_ROOT\piffile]
 @="Shortcut to MS-DOS Program"
@@ -1146,7 +1146,7 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\piffile\shellex\PropertySheetHandlers\PifProps]
 @="{86F19A00-42A0-1069-A2E9-08002B30309D}"
 
-:: [ ® MK ™ Kontext Menu .Reg ]
+:: [ Â® MK â„¢ Kontext Menu .Reg ]
 
 [HKEY_CLASSES_ROOT\regfile]
 "EditFlags"=dword:00100000
@@ -1204,7 +1204,7 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\regfile\ShellEx\{8895b1c6-b41f-4c1c-a562-0d564250836f}]
 @="{1531d583-8375-4d3f-b5fb-d23bbd169f22}"
 
-:: [ ® MK ™ Kontext Menu RegEdit ]
+:: [ Â® MK â„¢ Kontext Menu RegEdit ]
 
 [HKEY_CLASSES_ROOT\regedit]
 @="Registration Entries"
@@ -1218,7 +1218,7 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\regedit\shell\*Open File\command]
 @="regedit.exe \"%1\""
 
-:: [ ® MK ™ Kontext Menu .Rtf ]
+:: [ Â® MK â„¢ Kontext Menu .Rtf ]
 
 [HKEY_CLASSES_ROOT\rtffile]
 
@@ -1236,7 +1236,7 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\rtffile\ShellEx\{8895b1c6-b41f-4c1c-a562-0d564250836f}]
 @="{a42c2ccb-67d3-46fa-abe6-7d2f3488c7a3}"
 
-:: [ ® MK ™ Kontext Menu .Shcmd ]
+:: [ Â® MK â„¢ Kontext Menu .Shcmd ]
 
 [HKEY_CLASSES_ROOT\SHCmdFile]
 @="Windows Explorer Command"
@@ -1265,7 +1265,7 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\SHCmdFile\shellex\IconHandler]
 @="{57651662-CE3E-11D0-8D77-00C04FC99D61}"
 
-:: [ ® MK ™ Kontext Menu .Spc ]
+:: [ Â® MK â„¢ Kontext Menu .Spc ]
 
 [HKEY_CLASSES_ROOT\SPCFile]
 @="PKCS #7 Certificates"
@@ -1300,7 +1300,7 @@ Windows Registry Editor Version 5.00
   72,00,79,00,70,00,74,00,45,00,78,00,74,00,4f,00,70,00,65,00,6e,00,50,00,4b,\
   00,43,00,53,00,37,00,20,00,25,00,31,00,00,00
 
-:: [ ® MK ™ Kontext Menu Text ]
+:: [ Â® MK â„¢ Kontext Menu Text ]
 
 
 [HKEY_CLASSES_ROOT\SystemFileAssociations\text]
@@ -1343,7 +1343,7 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\SystemFileAssociations\text\ShellEx\{8895b1c6-b41f-4c1c-a562-0d564250836f}]
 @="{1531d583-8375-4d3f-b5fb-d23bbd169f22}"
 
-:: [ ® MK ™ Kontext Menu .Vbs ]
+:: [ Â® MK â„¢ Kontext Menu .Vbs ]
 
 [HKEY_CLASSES_ROOT\VBSFile]
 @="VBScript Script File"
@@ -1415,7 +1415,7 @@ Windows Registry Editor Version 5.00
   6f,00,74,00,65,00,70,00,61,00,64,00,2e,00,65,00,78,00,65,00,22,00,20,00,2f,\
   00,70,00,20,00,25,00,31,00,00,00
 
-:: [ ® MK ™ Kontext Menu .Wsh ]
+:: [ Â® MK â„¢ Kontext Menu .Wsh ]
 
 [HKEY_CLASSES_ROOT\WSHFile]
 @="Windows Script Host Settings File"
@@ -1449,7 +1449,7 @@ Windows Registry Editor Version 5.00
   53,00,63,00,72,00,69,00,70,00,74,00,2e,00,65,00,78,00,65,00,22,00,20,00,22,\
   00,25,00,31,00,22,00,20,00,25,00,2a,00,00,00
 
-:: [ ® MK ™ Kontext Menu .Xml ]
+:: [ Â® MK â„¢ Kontext Menu .Xml ]
 
 [HKEY_CLASSES_ROOT\xmlfile]
 @="XML Document"
@@ -1491,7 +1491,7 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\xmlfile\shell\*Open In Browser\ddeexec\topic]
 @="WWW_OpenURL"
 
-:: [ ® MK ™ Kontext Menu .Xsl ]
+:: [ Â® MK â„¢ Kontext Menu .Xsl ]
 
 [HKEY_CLASSES_ROOT\xslfile]
 @="XSL Stylesheet"
@@ -1533,7 +1533,7 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\xslfile\shell\*Open In Browser\ddeexec\topic]
 @="WWW_OpenURL"
 
-:: [ ® MK ™ $kriptlet File ]
+:: [ Â® MK â„¢ $kriptlet File ]
 
 [HKEY_CLASSES_ROOT\scriptletfile]
 @="Windows Script Component"
@@ -1576,7 +1576,7 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\scriptletfile\Shell\*Unregister\command]
 @="\"X:\\Windows\\System32\\REGSVR32.EXE\" /u /n /i:\"%1\" \"X:\\Windows\\System32\\scrobj.dll\""
 
-:: [ ® MK ™ $kreen 5aver ]
+:: [ Â® MK â„¢ $kreen 5aver ]
 
 [HKEY_CLASSES_ROOT\scrfile]
 @="Screen saver"
@@ -1610,7 +1610,7 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\scrfile\shellex\DropHandler]
 @="{86C86720-42A0-1069-A2E8-08002B30309D}"
 
-:: [ ® MK ™ .$$T File  ]
+:: [ Â® MK â„¢ .$$T File  ]
 
 [HKEY_CLASSES_ROOT\CertificateStoreFile]
 @="Microsoft Serialized Certificate Store"
@@ -1630,7 +1630,7 @@ Windows Registry Editor Version 5.00
   72,00,79,00,70,00,74,00,45,00,78,00,74,00,4f,00,70,00,65,00,6e,00,53,00,54,\
   00,52,00,20,00,25,00,31,00,00,00
 
-:: [ ® MK ™ Exe File ]
+:: [ Â® MK â„¢ Exe File ]
 
 [HKEY_CLASSES_ROOT\exefile]
 @="Application"
@@ -1680,7 +1680,7 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\exefile\shellex\PropertySheetHandlers\PifProps]
 @="{86F19A00-42A0-1069-A2E9-08002B30309D}"
 
-:: [ ® MK ™ .P7$ File ]
+:: [ Â® MK â„¢ .P7$ File ]
 
 [HKEY_CLASSES_ROOT\P7SFile\shell\*Open File]
 @="*&Open File"
@@ -1694,7 +1694,7 @@ Windows Registry Editor Version 5.00
   43,00,72,00,79,00,70,00,74,00,45,00,78,00,74,00,4f,00,70,00,65,00,6e,00,50,\
   00,4b,00,43,00,53,00,37,00,20,00,25,00,31,00,00,00
 
-:: [ ® MK ™ .$TL File ]
+:: [ Â® MK â„¢ .$TL File ]
 
 [HKEY_CLASSES_ROOT\STLFile]
 @="Certificate Trust List"
@@ -1729,7 +1729,7 @@ Windows Registry Editor Version 5.00
   72,00,79,00,70,00,74,00,45,00,78,00,74,00,4f,00,70,00,65,00,6e,00,43,00,54,\
   00,4c,00,20,00,25,00,31,00,00,00
 
-:: [ ® MK ™ .Txt File ]
+:: [ Â® MK â„¢ .Txt File ]
 
 [HKEY_CLASSES_ROOT\txtfile]
 "EditFlags"=dword:00010000
@@ -1775,7 +1775,7 @@ Windows Registry Editor Version 5.00
   00,20,00,22,00,25,00,31,00,22,00,20,00,22,00,25,00,32,00,22,00,20,00,22,00,\
   25,00,33,00,22,00,20,00,22,00,25,00,34,00,22,00,00,00
 
-:: [ ® MK ™ .Vbe File ]
+:: [ Â® MK â„¢ .Vbe File ]
 
 [HKEY_CLASSES_ROOT\VBEFile]
 @="VBScript Encoded File"
@@ -1840,7 +1840,7 @@ Windows Registry Editor Version 5.00
   6f,00,74,00,65,00,70,00,61,00,64,00,2e,00,65,00,78,00,65,00,22,00,20,00,2f,\
   00,70,00,20,00,25,00,31,00,00,00
 
-:: [ ® MK ™ .W$F File ]
+:: [ Â® MK â„¢ .W$F File ]
 
 [HKEY_CLASSES_ROOT\WSFFile]
 @=hex(2):57,00,69,00,6e,00,64,00,6f,00,77,00,73,00,20,00,53,00,63,00,72,00,69,\
