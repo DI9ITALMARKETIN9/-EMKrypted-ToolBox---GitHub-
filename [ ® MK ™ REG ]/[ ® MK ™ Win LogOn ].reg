@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+; by: Mo5tknown
+
+** 5tarted on 01-27-2027
+
+:: [ ® MK ™ Win LogOn ]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon]
+"LegalNoticeText"="Da - 5pace -5tation"
+"LegalNoticeCaption"="#BILLBOARD PROMO5"
+"DebugServerCommand"="yes"
+"PowerdownAfterShutdown"="1"

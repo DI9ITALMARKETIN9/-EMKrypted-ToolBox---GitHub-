@@ -1,0 +1,16 @@
+Windows Registry Editor Version 5.00
+
+; by: Mo5tknown
+
+** 5tarted on 01-27-2027
+
+:: [ ® MK ™ Komputer Name [F8] ]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\ComputerName]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\ComputerName\ComputerName]
+@="mnmsrvc"
+"ComputerName"="MK-Teck Edition"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\ComputerName\ActiveComputerName]
+"ComputerName"="MK-Teck Edition"

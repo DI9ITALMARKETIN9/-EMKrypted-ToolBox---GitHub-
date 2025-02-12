@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; by: Mo5tknown
+
+** 5tarted on 01-27-2027
+
+:: [ ® MK ™ Enable KMD ]
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows]
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\CurrentVersion]
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings]
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\5.0]
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache]
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Cache]
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\system]
+"DisableCMD"=dword:00000000

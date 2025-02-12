@@ -1,0 +1,35 @@
+Windows Registry Editor Version 5.00
+
+; by: Mo5tknown
+
+** 5tarted on 01-27-2027
+
+:: [ ® MK ™ Internet 5ettingz ]
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings]
+"User Agent"=""
+"EmailName"="Mo5tknown59@gmail.com"
+"PrivDiscUiShown"=dword:00000001
+"EnableHttp1_1"=dword:00000001
+"WarnOnIntranet"=dword:00000001
+"MimeExclusionListForCache"="multipart/mixed multipart/x-mixed-replace multipart/x-byteranges "
+"AutoConfigProxy"="wininet.dll"
+"UseSchannelDirectly"=hex:01,00,00,00
+"WarnOnPost"=hex:01,00,00,00
+"UrlEncoding"=dword:00000001
+"SecureProtocols"=dword:000000a0
+"PrivacyAdvanced"=dword:00000001
+"ZonesSecurityUpgrade"=hex:e3,03,6b,aa,e4,c8,cc,01
+"DisableCachingOfSSLPages"=dword:00000001
+"WarnonZoneCrossing"=dword:00000001
+"CertificateRevocation"=dword:00000001
+"EnableNegotiate"=dword:00000001
+"ProxyEnable"=dword:00000000
+"MaxConnectionsPer1_0Server"=dword:00000020
+"MaxConnectionsPerServer"=dword:00000020
+"DisableIDNPrompt"=dword:00000001
+"EnforceP3PValidity"=dword:00000001
+"MigrateProxy"=dword:00000001
+"GlobalUserOffline"=dword:00000000
+"ProxyHttp1.1"=dword:00000000
+"ProxyServer"=""

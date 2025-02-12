@@ -1,0 +1,30 @@
+Windows Registry Editor Version 5.00
+
+; by: Mo5tknown
+
+** 5tarted on 01-27-2027
+
+:: [ ® MK ™ Mouze ]
+
+[HKEY_USERS\.DEFAULT\Control Panel\Mouse]
+"ActiveWindowTracking"=dword:00000000
+"DoubleClickHeight"="4"
+"DoubleClickSpeed"="1000"
+"DoubleClickWidth"="4"
+"MouseSensitivity"="900"
+"MouseSpeed"="55"
+"MouseThreshold1"="12"
+"SmoothMouseXCurve"=hex:00,00,00,00,00,00,00,00,15,6e,00,00,00,00,00,00,00,40,\
+  01,00,00,00,00,00,29,dc,03,00,00,00,00,00,00,00,28,00,00,00,00,00
+"SmoothMouseYCurve"=hex:00,00,00,00,00,00,00,00,b8,5e,01,00,00,00,00,00,cd,4c,\
+  05,00,00,00,00,00,cd,4c,18,00,00,00,00,00,00,00,38,02,00,00,00,00
+"MouseThreshold2"="15"
+"SnapToDefaultButton"="0"
+"SwapMouseButtons"="0"
+"DockTargetMouseWidth"="1"
+"DockTargetPenWidth"="30"
+"DockTargetMouseDragOutWidth"="20"
+"DockTargetPenDragOutWidth"="30"
+"DockTargetMouseSideMoveWidth"="50"
+"DockTargetPenSideMoveWidth"="50"
+"MouseHoverTime"="2"

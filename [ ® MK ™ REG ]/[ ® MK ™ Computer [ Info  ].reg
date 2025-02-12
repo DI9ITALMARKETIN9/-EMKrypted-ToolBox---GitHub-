@@ -1,0 +1,14 @@
+Windows Registry Editor Version 5.00
+
+; by: Mo5tknown
+
+** 5tarted on 01-27-2027
+
+:: [ MK ™ Komputer 5yztem Information ]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\SystemInformation]
+"BIOSVersion"="V.14"
+"BIOSReleaseDate"="12/07/1987"
+"SystemManufacturer"="@Mo5tknown"
+"SystemProductName"="#KingKoopa"
+"InformationSource"=dword:00000001

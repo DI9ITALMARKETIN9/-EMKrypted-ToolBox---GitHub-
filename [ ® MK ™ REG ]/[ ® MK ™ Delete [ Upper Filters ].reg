@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+; by: Mo5tknown
+
+** 5tarted on 01-27-2027
+
+:: [ ® MK ™ Delete Upper Filterz ]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\TCPIP6\Parameters]
+"DisabledComponents"=dword:ffffffff
+"EnableICSIPv6"=dword:00000000
