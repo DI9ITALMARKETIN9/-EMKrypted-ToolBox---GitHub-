@@ -486,21 +486,50 @@ BREAK
 ECHO.
 echo Stopping Windows Update service...
 net stop wuauserv
+echo.
 echo Windows Update service stopped.
 
+echo.
 echo Disabling Windows Update service...
 sc config wuauserv start= disabled
+echo.
 echo Windows Update service disabled.
 
+echo.
+echo Disabling Windows Update Orchestrator service...
+sc config UsoSvc start= disabled
+echo.
+echo Windows Update Orchestrator service disabled.
+
+echo.
+echo Stopping Windows Update Orchestrator service...
+net stop UsoSvc
+echo.
+echo Windows Update Orchestrator service stopped.
+
+echo.
 echo Stopping Background Intelligent Transfer Service (BITS)...
 net stop bits
+echo.
 echo Background Intelligent Transfer Service (BITS) stopped.
 
+echo.
 echo Disabling Background Intelligent Transfer Service (BITS)...
 sc config bits start= disabled
+echo.
 echo Background Intelligent Transfer Service (BITS) disabled.
 
+rem Disable Windows Update scheduled tasks
+schtasks /Change /TN "\Microsoft\Windows\UpdateOrchestrator\UpdateAssistant" /Disable
+schtasks /Change /TN "\Microsoft\Windows\UpdateOrchestrator\UpdateAssistantCalendarRun" /Disable
+schtasks /Change /TN "\Microsoft\Windows\UpdateOrchestrator\UpdateAssistantWakeupRun" /Disable
+
+rem Disable Windows Update via Group Policy (may require administrative rights)
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate" /v "DisableWindowsUpdateAccess" /t REG_DWORD /d 1 /f
+
+echo.
 echo All updates services disabled successfully.
+
 BREAK
 
 ECHO.
