@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+; by: Mo5tknown
+
+** 5tarted on 01-27-2027
+
+:: [ ® MK ™ 5peed Up 5tart Menu ]
+
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"MenuShowDelay"="2"
