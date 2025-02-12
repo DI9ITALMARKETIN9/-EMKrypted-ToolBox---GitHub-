@@ -1,0 +1,101 @@
+IP Address	Port	Code	Country	Anymity	Google	Https	
+124.123.108.15	80	IN	India	elite proxy			  
+161.97.93.15	80	DE	Germany	elite proxy			 
+34.135.0.68	80	US	United States	elite proxy			 
+141.95.241.100	80	FR	France	elite proxy			
+201.217.49.2	80	PY	Paraguay	elite proxy			
+185.140.53.137	80	HK	Hong Kong	anymous			  
+183.180.183.47	53128	JP	Japan	elite proxy			  
+173.212.195.139	80	DE	Germany	elite proxy			  
+190.103.177.131	80	AR	Argentina	anymous			  
+137.74.65.101	80	FR	France	elite proxy			  
+146.83.128.23	80	CL	Chile	elite proxy			  
+157.230.48.102	80	US	United States	elite proxy			 
+108.170.12.12	80	US	United States	elite proxy			
+143.244.182.101	80	US	United States	anymous			 
+34.124.154.221	80	SG	Singapore	elite proxy			  
+38.154.239.218	9000	US	United States	anymous			 
+141.147.9.254	80	DE	Germany	anymous			
+34.125.38.1	80	US	United States	elite proxy			  
+46.47.197.210	3128	RU	Russian Federation	elite proxy			 
+138.68.225.200	80	US	United States	elite proxy			  
+146.59.202.70	80	FR	France	elite proxy			  
+143.198.228.250	80	US	United States	anymous			  
+37.152.183.46	80	IR	Iran	elite proxy			 
+163.172.85.30	80	FR	France	elite proxy			 
+103.167.134.31	80	HK	Hong Kong	anymous			
+34.28.190.39	80	US	United States	elite proxy			
+190.61.88.147	8080	GT	Guatemala	anymous			 
+200.69.210.59	80	AR	Argentina	elite proxy			 
+116.106.134.84	4006	VN	Vietnam	elite proxy			
+159.203.3.234	80	CA	Canada	elite proxy			
+146.59.2.185	80	FR	France	anymous			 
+96.95.164.43	3128	US	United States	anymous			
+103.133.221.251	80	IN	India	elite proxy			  
+93.103.130.130	8080	SI	Slovenia	anymous			  
+138.197.148.215	80	CA	Canada	elite proxy			 
+190.183.60.253	8060	AR	Argentina	elite proxy			 
+91.209.11.131	80	UA	Ukraine	elite proxy			  
+45.154.15.116	80	GB	United Kingdom	anymous			 
+89.208.105.195	4555	NL	Netherlands	anymous			
+162.241.207.217	80	US	United States	elite proxy			 
+198.211.117.231	80	US	United States	elite proxy			
+146.190.177.143	80	DE	Germany	elite proxy			  
+154.65.39.7	80	SN	Senegal	elite proxy			  
+82.65.202.229	80	FR	France	elite proxy			  
+46.101.219.34	80	DE	Germany	elite proxy			 
+190.128.228.182	80	PY	Paraguay	anymous			  
+185.218.125.70	80	DE	Germany	elite proxy			 
+159.223.183.111	80	US	United States	elite proxy			  
+220.135.27.123	4006	TW	Taiwan	elite proxy			  
+84.87.81.240	4006	NL	Netherlands	elite proxy			 
+158.69.121.191	10080	CA	Canada	elite proxy			  
+138.197.102.119	80	US	United States	elite proxy			 
+102.223.20.217	80	GH	Ghana	elite proxy			  
+82.180.163.163	80	US	United States	elite proxy			  
+217.79.253.106	80	US	United States	elite proxy			 
+149.56.96.252	5566	CA	Canada	anymous			  
+201.222.40.47	999	CO	Colombia	anymous			
+189.232.97.172	8080	MX	Mexico	anymous			
+64.225.8.179	9996	US	United States	elite proxy			  
+147.50.205.2	8080	TH	Thailand	elite proxy			 
+167.99.236.14	80	US	United States	elite proxy		
+89.117.32.209	80	BR	Brazil	elite proxy			 
+153.19.91.77	80	PL	Poland	anymous			  
+88.99.72.91	80	DE	Germany	anymous			 
+68.183.143.134	80	US	United States	elite proxy			  
+147.182.132.21	80	US	United States	elite proxy			
+115.144.8.91	80	KR	South Korea	elite proxy			
+84.248.46.187	80	FI	Finland	anymous			 
+103.36.25.4	80	TW	Taiwan	anymous			  
+27.79.55.47	14041	VN	Vietnam	elite proxy			 
+103.123.25.65	80	ID	Indonesia	elite proxy			  
+200.42.175.91	80	CL	Chile	elite proxy			  
+167.99.124.118	80	US	United States	anymous			 
+209.126.6.159	80	US	United States	elite proxy			  
+57.128.12.85	80	FR	France	elite proxy			 
+203.57.51.53	80	AU	Australia	elite proxy			 
+27.254.217.116	8081	TH	Thailand	anymous			 
+217.182.170.224	80	FR	France	elite proxy			  
+35.222.50.197	80	US	United States	elite proxy			 
+188.235.0.207	8181	RU	Russian Federation	anymous			
+68.208.221.163	80	US	United States	elite proxy			
+141.136.42.164	80	GB	United Kingdom	elite proxy			 
+94.100.26.202	80	SG	Singapore	elite proxy
+141.170.217.98	80	FR	France	elite proxy	
+102.134.98.222	8081	BI	Burundi	elite proxy	
+68.183.135.221	8082	US	United States	elite proxy
+191.101.1.116	80	US	United States	elite proxy
+154.113.121.60	80	NG	Nigeria	elite proxy	
+157.230.34.219	3128	SG	Singapore	anymous
+177.93.58.221	999	CO	Colombia	anymous
+206.62.169.82	999	VE	Venezuela	anymous
+189.113.14.243	80	BR	Brazil	elite proxy
+202.60.194.23	80	TH	Thailand	elite proxy	
+90.154.124.211	8080	RU	Russian Federation	elite proxy
+163.172.31.44	80	FR	France	elite proxy
+150.230.109.27	3128	JP	Japan	elite proxy
+132.145.206.223	3128	US	United States	anymous
+34.75.202.63	80	US	United States	elite proxy
+209.145.60.213	80	US	United States	anymous	
+147.182.180.242	80	US	United States	elite proxy 
