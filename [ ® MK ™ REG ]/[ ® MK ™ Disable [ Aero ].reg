@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+; by: Mo5tknown
+
+** 5tarted on 01-27-2027
+
+:: [ ® MK ™ Anable Aero ]
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\DWM]
+
+"UseMachineCheck"=dword:00000000
+"Blur"=dword:00000000
+"Animations"=dword:00000000
