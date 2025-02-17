@@ -1,4 +1,4 @@
-### EMKryptedToolBox_v1 [ EMTK_v1.7z ] is the zip file that is compressed to run ass an app ] it is in layout stage still, but get to know what is in the works.
+### EMKryptedToolBox_v1 [ EMTK_v1.7z ] is the zip file that is compressed to run as an app ] it is in layout stage still, but get to know what is in the works.
 
 Welcome to **EMKryptedToolBox_v1**! You can now download the EMKryptedToolBox. This repository is crafted for both new and experienced Windows users, providing a comprehensive guide on setting up and utilizing your Windows OS effectively. All tools and scripts are integrated with Windows commands, ensuring a seamless and safe user experience.
 
